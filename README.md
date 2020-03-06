@@ -4,6 +4,8 @@
 
 #### [Algorithm Explanation](https://en.wikipedia.org/wiki/Floyd%E2%80%93Steinberg_dithering)
 
+#### Factor -> Number of quantization values
+
 * Factor = 1
 ![Factor 1](https://raw.githubusercontent.com/IgorChavesMoura/floyd-steinberg-dithering/master/factor-1.png)
 
